@@ -1,4 +1,4 @@
-
+gi
 Git commands:-
 
  git config --list
